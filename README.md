@@ -1,4 +1,4 @@
-# SmartResume AI 🚀
+# SmartResume AI 
 
 ## Overview
 
